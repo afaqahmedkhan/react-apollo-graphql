@@ -1,15 +1,15 @@
 # react-apollo-graphql
 a simple web app using React and Apollo/Graphql
 
-##service 
+## service 
 Service is the mocked node api server
 do `npm install` then `npm run start` or with nodemon run `npm run server`
 
-##server
+## server
 the graphql server contains the schema
 do `npm install` then `npm run start` or with nodemon run `npm run server`
 
-##client
+## client
 Client is the simple react app created with create-react-app
 do `yarn install` and `yarn start`
 
